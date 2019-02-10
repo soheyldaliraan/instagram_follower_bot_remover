@@ -12,10 +12,10 @@ By removing sub bots, your content will reach much higher engagment rates over t
 ### How this script works?
 
 *I have implemented two methods for removing sub bots*:
-##### Unsupervised
+#### Unsupervised
 In *Bot* directory, *find_and_block.py* automatically finds sub bots and blocks them.
 
-##### Supervised
+#### Supervised
 In *Assistant* directory, there are 2 scripts.<br/>
 *find.py* finds sub bots, then saves them to *Data/BlackList.csv* and *Data/WhiteList.csv*
 <br/>*block.py* then reads Data files and block users<br/>You can check algorithms output in Data csv files.<br/>
