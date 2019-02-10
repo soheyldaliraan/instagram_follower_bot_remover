@@ -41,7 +41,7 @@ Supervised | 86%
 <br/>
 <br/>
 <br/>
-### Run!
+### :red_circle: Run!
 
 First change *configuration.json* file. If you want to save data files to default path, leave *whitelist_path* and *blacklist_path* unchanged.<br/>
 Then select one of *Bot* (for *Supervised*) or *Assistent* (for *Unsupervised*) method.
