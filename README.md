@@ -7,7 +7,7 @@
 Python Script for detecting and blocking Instagram Follower Bots
 
 
-### Why Removing Follower Bots?
+### :red_circle: Why Removing Follower Bots?
 
 Instagram new algorithm favors user engagement over other factors for presenting your contents to your followers<sup>[1](#insta-new-alg)</sup><br/>This means if your followers engagement with your contents are low (i.e. less than 10% of your followers like your posts), Instagram ML algorithms identify you as a spammer and prevent your content from getting enough user reach and impression<br/>
 Follower Bots engagement rate is zero because they usually lack the the abillity to like your posts or post a comment so they signal instagram to mark you as spammer.<br/>
@@ -15,7 +15,7 @@ By removing follower bots, your content will reach much higher engagment rates o
 <br/>
 <br/>
 <br/>
-### How this script works?
+### :red_circle: How this script works?
 
 I have implemented two methods for removing follower bots:
 #### Unsupervised
@@ -28,7 +28,7 @@ In *Assistant* directory, there are 2 scripts.<br/>
 <br/>
 <br/>
 <br/>
-### Does this script work?
+### :red_circle: Does this script work?
 
 You can checkout algorithm precision in the following table. Results are dervied from running scripts on [My personal Instagram Account](https://instagram.com/soheyl_daliraan)
 
