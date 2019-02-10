@@ -43,4 +43,4 @@ First change *configuration.json* file. If you want to save data files to defaul
 Then select one of *Bot* (for *Supervised*) or *Assistent* (for *Unsupervised*) method.
 ***
 
-<a name="insta-new-alg">1</a>: [How Instagram’s algorithm works](https://techcrunch.com/2018/06/01/how-instagram-feed-works/)
+<a name="insta-new-alg">1</a>: [How Instagram’s algorithm works, https://techcrunch.com/2018/06/01/how-instagram-feed-works/](https://techcrunch.com/2018/06/01/how-instagram-feed-works/)
