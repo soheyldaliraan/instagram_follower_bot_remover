@@ -27,7 +27,7 @@ In *Assistant* directory, there are 2 scripts.<br/>
 
 ### Does this script work?
 
-You can checkout algorithm precision in the following table. Results are dervied from running scripts on [my personal Instagram Account](https://instagram.com/soheyl_daliraan)
+You can checkout algorithm precision in the following table. Results are dervied from running scripts on [My personal Instagram Account](https://instagram.com/soheyl_daliraan)
 
 Algorithm | Precision
 ------------ | -------------
@@ -41,6 +41,12 @@ Supervised | 86%
 
 First change *configuration.json* file. If you want to save data files to default path, leave *whitelist_path* and *blacklist_path* unchanged.<br/>
 Then select one of *Bot* (for *Supervised*) or *Assistent* (for *Unsupervised*) method.
+
+### :warning: Read Before Using This Scripts:
+
+I included random sleep in script exectution to meet instagram limitations for subsequent api requests from a single node.<br/>
+Alter this sleeping times with caution.<br/>
+Also in *Supervised* mode, you can find fake followers without your personal account. Just create some fake instagram account (Which is ironic :man_facepalming:) and use this account.
 ***
 
 <a name="insta-new-alg">1</a>: [How Instagram’s algorithm works, https://techcrunch.com/2018/06/01/how-instagram-feed-works/](https://techcrunch.com/2018/06/01/how-instagram-feed-works/)
