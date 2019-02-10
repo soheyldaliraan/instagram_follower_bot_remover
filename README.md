@@ -1,3 +1,5 @@
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
 # Instagram Sub Bot Remover
 Python Script for detecting and blocking Instagram Sub Bots
 
@@ -34,7 +36,7 @@ Supervised | 86%
 
 ### Run!
 
-First change *configuration.json* file. If you want to save data files to default path, leave *whitelist_path* and "blacklist_path" unchanged.<br/>
+First change *configuration.json* file. If you want to save data files to default path, leave *whitelist_path* and *blacklist_path* unchanged.<br/>
 Then select one of *Bot* (for *Supervised*) or *Assistent* (for *Unsupervised*) method.
 
 <a name="insta-new-alg">1</a>: [How Instagram’s algorithm works](https://techcrunch.com/2018/06/01/how-instagram-feed-works/)
