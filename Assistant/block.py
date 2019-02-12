@@ -16,4 +16,4 @@ if __name__ == "__main__":
         print("Blocked:", pk)
 
         remove_from_blacklist(pk)
-        time.sleep(randint(1, 3))
+        time.sleep(randint(5, 15))
